@@ -1,3 +1,9 @@
+# Contents
+* [AppBuilder9000](#appbuilder9000)
+* [Index Page](#index-page)
+* [Item Details](#item-details)
+* [Edit and Delete Functions](#edit-and-delete-functions)
+
 # AppBuilder9000
 In my time at The Tech Academy I got the chance to work with a team of developers to design and build a website oriented around hosting apps relating to hobbies. This gave me valuable experience with not only the Django Framework and the technologies involved, but also how to work with other developers using Agile methodologies. I worked on multiple stories involving creating a database that users can save, edit and delete data to, as well as display an index of all the data saved to the database with the ability to view details of any item. I used a combination of bootstrap and my own styling on the website.
 
